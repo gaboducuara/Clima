@@ -37,6 +37,8 @@ const [notFound, setNotFound] = useState(false)
       const geoUrl = `http://api.openweathermap.org/geo/1.0/direct?q=${search.city},${search.country}&appid=${appId}`
       const {data} = await axios.get(geoUrl)
 
+      console.log(data)
+
       if(!data[0]){
         setNotFound(true)
         console.log('clima no encontrado')
