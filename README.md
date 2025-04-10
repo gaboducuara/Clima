@@ -9,32 +9,13 @@ WeatherApp es una aplicación web que permite consultar el clima actual de difer
 
 
 ## Tecnologías utilizadas. 🚀
-### Backend – 🧠 Nest TS (TypeScript). Framework backend modular y escalable.
-
-****
-|||
-|:---:|:---:|
-| <img style="width: 100px; min-width: 100px" src="https://nestjs.com/img/logo-small.svg">| NestJS 11 – Framework backend modular y escalable. |
-| <img style="width: 100px; min-width: 100px" src="https://miro.medium.com/v2/resize:fit:1050/1*rTbyH3zL7Ue8VyTHRMRDAA.png">| TypeORM – ORM para bases de datos SQL. |
-| <img style="width: 100px; min-width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">| PostgreSQL – Base de datos relacional. |
-| <img style="width: 100px; min-width: 100px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/cloudinary-icon-ug0qqy8ms6ozyzy6cntbll.png/cloudinary-icon-hz05evx1htrghud89kpab4.png?_a=DAJFJtWIZAAC">| Cloudinary + Streamifier – Para carga y almacenamiento de imágenes. |
-| <img style="width: 100px; min-width: 100px" src="https://res.cloudinary.com/suv4o/image/upload/q_auto,f_auto,w_750,e_sharpen:100/v1665729617/blog/nestjs-class-validator-high-vulnerability-fix/nestjs-class-validator-high-vulnerability-fix">| class-validator / class-transformer – Validación y transformación de DTOs. |
-| <img style="width: 100px; min-width: 100px" src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.svg">|  dotenv / @nestjs/config – Manejo de variables de entorno. |
-| <img style="width: 100px; min-width: 100px" src="https://miro.medium.com/v2/resize:fit:1050/1*vttRKUDF-cJ597zlXCNkyQ.png">| ESLint / Prettier – Estilo y formato de código. |
-
 ### Frontend – 🖼️ Next.ts 15 (React 19)
 
 ****
 |||
 |:---:|:---:|
-| <img style="width: 100px; min-width: 100px" src="https://www.digitality.es/img-articulos/ampliadas/que-es-nextjs-y-para-que-sirve-1-1697560678.jpg">| Next.js – Framework React para SSR y SSG. |
 | <img style="width: 100px; min-width: 100px" src="https://reactjs.org/favicon.ico">| React 19 – Última versión con mejoras en rendimiento. |
-| <img style="width: 100px; min-width: 100px" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-256x154-bhw4dmbr.png">| Tailwind CSS – Utilidades para estilos rápidos y responsive. |
-| <img style="width: 100px; min-width: 100px" src="https://refine-web.imgix.net/blog/2023-07-04-react-query-intro/social-2.png?w=1788">| React Query – Manejo de datos con cacheo y sincronización. |
-| <img style="width: 100px; min-width: 100px" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg">| Zustand – Manejo de estado simple y moderno. |
-| <img style="width: 100px; min-width: 100px" src="https://user-images.githubusercontent.com/35040146/100596753-851b5e00-3322-11eb-9073-1a50e5adcb53.png">| React Toastify – Notificaciones amigables. |
-| <img style="width: 100px; min-width: 100px" src="https://raw.githubusercontent.com/react-dropzone/react-dropzone/master/logo/logo.png">| React Dropzone – Subida de archivos con drag & drop. |
-| <img style="width: 100px; min-width: 100px" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1713969399706%2Fc21020ec-8947-4631-90e0-775f374f26fd.jpeg">| React Calendar – Componente de calendario interactivo. |
+| <img style="width: 100px; min-width: 100px" src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lhp6q90ax8ejbpwrdrk.png">| React 19 – Última versión con mejoras en rendimiento. |
 | <img style="width: 100px; min-width: 100px" src="https://miro.medium.com/v2/resize:fit:1050/0*yTnXWjd6Tkdr17HN.png">| Zod – Validaciones del lado del cliente con tipado estático. |
 
 ### Alojamiento – ☁️
