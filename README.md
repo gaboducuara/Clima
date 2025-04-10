@@ -1,10 +1,8 @@
-# 🛍️ Web App Store – Fullstack App (Nest ts + Next.ts)  🙌
+# 🛍️ Web App Clima – React. ts  🙌
 
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Render Services](https://img.shields.io/badge/Render_Services-5A4CAD?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
-[![Neon PostgreSQL](https://img.shields.io/badge/Neon_PostgreSQL-00E59B?style=for-the-badge&logo=postgresql&logoColor=white)](https://neon.tech/)
+[![React TypeScript](https://img.shields.io/badge/React_TS-3178C6?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+
 
 Aplicación web moderna con funcionalidades completas de backend y frontend. Este proyecto implementa una arquitectura robusta con Nest TS en el backend y Next.TS en el frontend. Incluye autenticación, manejo de archivos, CRUDs, validaciones y despliegue en la nube.
 
