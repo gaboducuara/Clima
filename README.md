@@ -1,12 +1,11 @@
 # 🛍️ Web App Clima – React. ts  🙌
 
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![React TypeScript](https://img.shields.io/badge/React_TS-3178C6?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 
 
-Aplicación web moderna con funcionalidades completas de backend y frontend. Este proyecto implementa una arquitectura robusta con Nest TS en el backend y Next.TS en el frontend. Incluye autenticación, manejo de archivos, CRUDs, validaciones y despliegue en la nube.
+WeatherApp es una aplicación web que permite consultar el clima actual de diferentes ciudades del mundo. Utiliza la API de OpenWeatherMap para obtener datos actualizado y presenta una interfaz amigable y responsiva. La aplicación está construida con React y TypeScript, lo que garantiza un desarrollo escalable y mantenible.
 
-![HU3withoutlogo](https://res.cloudinary.com/dgkwrzh9x/image/upload/f_auto,q_auto/Captura_de_pantalla_218_itjrjc)
+![HU3withoutlogo](https://i.postimg.cc/65DJD8kZ/Captura-de-pantalla-259.png)
 
 
 ## Tecnologías utilizadas. 🚀
